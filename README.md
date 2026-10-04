@@ -151,9 +151,9 @@ An automatic reconciliation engine that cross-references bank statements (OFX/CS
 ### 🐍 Snake Mode
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inwtn/Inwtn/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inwtn/Inwtn/output/github-snake.svg" />
-  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Inwtn/Inwtn/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inwtn/Inwtn/output/github-snake-dark.svg?v=2" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Inwtn/Inwtn/output/github-snake.svg?v=2" />
+  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Inwtn/Inwtn/output/github-snake.svg?v=2" />
 </picture>
 
 </div>
