@@ -108,6 +108,20 @@ Before moving into software, I spent over four years in **financial operations**
 
 ### 📂 Featured Projects
 
+#### 📺 [StreamHub](https://github.com/Inwtn/streamhub)
+
+An invite-only screen-sharing app for small groups, with WebRTC streaming for up to five viewers, optional room voice calls, and connection diagnostics. A Node.js server manages rooms and signaling while media travels between browsers.
+
+`React` `Node.js` `Express` `Socket.IO` `WebRTC`
+
+**Live demo:** [streamhub-inwtn.onrender.com](https://streamhub-inwtn.onrender.com/)
+
+#### 🔍 [Lupa.NET](https://github.com/Inwtn/lupa-net)
+
+A local .NET assembly explorer powered by ILSpy for static code inspection, with reconstructed C#, IL, metadata, references, and strings. It reads assemblies without executing the analyzed code.
+
+`C#` `Node.js` `PowerShell` `ILSpy`
+
 #### 💸 [Finance Sync API](https://github.com/Inwtn/API-Finance-Sync)
 
 A REST API that automates cash flow processes, acting as integration middleware: it receives financial transaction data via HTTP and posts it automatically, in real time, to management-control spreadsheets in Google Sheets.
