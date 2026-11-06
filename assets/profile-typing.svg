@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="48" viewBox="0 0 700 48" role="img" aria-label="Full-stack developer. Applied generative AI. Automating the boring stuff. Exploring cybersecurity.">
+<title>Full-stack developer · Applied generative AI · Automation · Cybersecurity</title>
+<defs><clipPath id="typing"><rect x="60" y="0" width="580" height="48"><animate attributeName="width" values="0;580;580;0" keyTimes="0;.4;.85;1" dur="4s" repeatCount="indefinite"/></rect></clipPath></defs>
+<g fill="#9d4edd" font-family="Courier New,monospace" font-size="14" font-weight="700" letter-spacing="2" text-anchor="middle" clip-path="url(#typing)">
+<text x="350" y="28" opacity="1">FULL-STACK DEVELOPER<animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;.249;.25;.999;1" dur="16s" repeatCount="indefinite"/></text>
+<text x="350" y="28" opacity="0">APPLIED GENERATIVE AI<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.249;.25;.499;.5;1" dur="16s" repeatCount="indefinite"/></text>
+<text x="350" y="28" opacity="0">AUTOMATING THE BORING STUFF<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;.499;.5;.749;.75;1" dur="16s" repeatCount="indefinite"/></text>
+<text x="350" y="28" opacity="0">EXPLORING CYBERSECURITY<animate attributeName="opacity" values="0;0;1;1" keyTimes="0;.749;.75;1" dur="16s" repeatCount="indefinite"/></text>
+</g><path d="M638 13v20" stroke="#c8a5ef" stroke-width="2"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></path>
+</svg>
