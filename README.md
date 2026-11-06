@@ -18,13 +18,7 @@ Currently exploring **data engineering, local AI and defensive code analysis** t
 
 ### Main tools
 
-![Java](https://img.shields.io/badge/Java-292D3E?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-292D3E?style=flat-square&logo=springboot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-292D3E?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-292D3E?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-292D3E?style=flat-square&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-292D3E?style=flat-square&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-292D3E?style=flat-square&logo=postgresql&logoColor=white)
+`Java` `Spring Boot` `Python` `TypeScript` `React` `Node.js` `PostgreSQL`
 
 At work, I also use **JavaScript, PHP/Laravel and Python** for internal ERP features and integrations.
 
