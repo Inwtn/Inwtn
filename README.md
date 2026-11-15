@@ -91,7 +91,7 @@ now:
 ```diff
 + 09/2026 → now      Software Engineer · 3D Lab
 +                    full-stack internal ERP · JS · PHP/Laravel · Python · Generative AI · APIs
-! 02/2025 → 06/2026  Software Developer · [COMPANY NAME]
+! 02/2025 → 06/2026  Software Developer · 
 !                    Java/Spring Boot backend · microservices · REST APIs · automation
 # 10/2020 → 02/2025  Financial Analyst · Benericks Cocktail Co
 # 2025 → now         Systems Analysis and Development · Newton Paiva / Wyden
