@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="380" height="64" viewBox="0 0 380 64" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, Courier New, monospace"><defs></defs>
+<rect x="0.5" y="0.5" width="379" height="63" rx="12" fill="#101827" stroke="#1e2a3d"/>
+<rect x="0" y="14" width="4" height="36" rx="2" fill="#22d3ee"/>
+<text x="28" y="28" font-size="12" fill="#8b98a9" letter-spacing="2">LINKEDIN</text>
+<text x="28" y="48" font-size="16" font-weight="700" fill="#22d3ee">in/isaacalmeida-dev</text>
+<text x="352" y="38" text-anchor="end" font-size="20" fill="#8b98a9">↗</text>
+</svg>

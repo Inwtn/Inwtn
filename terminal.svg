@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="372" viewBox="0 0 1200 372" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, Courier New, monospace"><defs></defs>
+<rect x="0.5" y="0.5" width="1199" height="371" rx="14" fill="#101827" stroke="#1e2a3d"/>
+<path d="M0.5 14.5a14 14 0 0 1 14-14h1171a14 14 0 0 1 14 14V48H0.5z" fill="#0b0f17"/>
+<circle cx="30" cy="25" r="6" fill="#ff5f56"/><circle cx="52" cy="25" r="6" fill="#ffbd2e"/><circle cx="74" cy="25" r="6" fill="#27c93f"/>
+<text x="600" y="30" text-anchor="middle" font-size="13" fill="#8b98a9">isaac@3dlab: ~</text>
+<text x="32" y="98" font-size="16"><tspan fill="#22d3ee">isaac@3dlab:~$</tspan> <tspan fill="#e6edf3">whoami</tspan></text>
+<text x="32" y="124" font-size="15" fill="#8b98a9">Isaac Almeida · Software Engineer at 3D Lab</text>
+<text x="32" y="164" font-size="16"><tspan fill="#22d3ee">isaac@3dlab:~$</tspan> <tspan fill="#e6edf3">cat focus.txt</tspan></text>
+<text x="32" y="190" font-size="15" fill="#8b98a9">Full-Stack · Applied Generative AI · Automation · Cybersecurity</text>
+<text x="32" y="230" font-size="16"><tspan fill="#22d3ee">isaac@3dlab:~$</tspan> <tspan fill="#e6edf3">cat origin.txt</tspan></text>
+<text x="32" y="256" font-size="15" fill="#8b98a9">4+ years in financial operations → software engineering</text>
+<text x="32" y="296" font-size="16"><tspan fill="#22d3ee">isaac@3dlab:~$</tspan> <tspan fill="#e6edf3">echo $STATUS</tspan></text>
+<text x="32" y="322" font-size="15" fill="#8b98a9">building internal ERP modules and leveling up in cybersecurity</text>
+
+</svg>

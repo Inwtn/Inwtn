@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, Courier New, monospace"><defs>
+<pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#1e2a3d" stroke-width="1"/></pattern>
+<radialGradient id="glow" cx="85%" cy="15%" r="60%"><stop offset="0" stop-color="#22d3ee" stop-opacity="0.25"/><stop offset="1" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1200" height="320" rx="16" fill="#0b0f17"/>
+<rect width="1200" height="320" rx="16" fill="url(#g)" opacity="0.6"/>
+<rect width="1200" height="320" rx="16" fill="url(#glow)"/>
+<rect x="0.5" y="0.5" width="1199" height="319" rx="16" fill="none" stroke="#1e2a3d"/>
+<text x="72" y="104" font-size="16" fill="#22d3ee" letter-spacing="3">// SOFTWARE ENGINEER</text>
+<text x="72" y="188" font-size="68" font-weight="700" fill="#e6edf3">Isaac Almeida</text>
+<text x="72" y="236" font-size="22" fill="#8b98a9">Full-Stack · Applied Generative AI · Automation · Cybersecurity</text>
+<text x="72" y="284" font-size="16" fill="#8b98a9"><tspan fill="#22d3ee">$</tspan> building internal ERP modules at 3D Lab</text>
+<rect x="469.59999999999997" y="268" width="10" height="20" fill="#22d3ee">
+  <animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/>
+</rect>
+<text x="1128" y="288" text-anchor="end" font-size="72" font-weight="700" fill="#22d3ee" opacity="0.16">&lt;/&gt;</text>
+</svg>
