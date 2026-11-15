@@ -54,20 +54,20 @@ now:
 
 <p align="center"><b><code>AI &amp; Automation</code></b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-22d3ee?style=flat-square&labelColor=0b0f17&label=%E2%96%B8" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/LLMs-22d3ee?style=flat-square&labelColor=0b0f17&label=%E2%96%B8" alt="LLMs" />
-  <img src="https://img.shields.io/badge/AI%20Agents-22d3ee?style=flat-square&labelColor=0b0f17&label=%E2%96%B8" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/RAG-22d3ee?style=flat-square&labelColor=0b0f17&label=%E2%96%B8" alt="RAG" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-22d3ee?style=flat-square&labelColor=0b0f17&label=%E2%96%B8" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/AI--Driven%20Development-22d3ee?style=flat-square&labelColor=0b0f17&label=%E2%96%B8" alt="AI-Driven Development" />
+  <img src="https://img.shields.io/badge/Generative%20AI-1e2a3d?style=flat-square" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLMs-1e2a3d?style=flat-square" alt="LLMs" />
+  <img src="https://img.shields.io/badge/AI%20Agents-1e2a3d?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG-1e2a3d?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-1e2a3d?style=flat-square" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/AI--Driven%20Development-1e2a3d?style=flat-square" alt="AI-Driven Development" />
 </p>
 
 <p align="center"><b><code>Cybersecurity</code></b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-22d3ee?style=flat-square&labelColor=0b0f17&label=%E2%96%B8" alt="Linux" />
-  <img src="https://img.shields.io/badge/SIEM%20%26%20IDS-22d3ee?style=flat-square&labelColor=0b0f17&label=%E2%96%B8" alt="SIEM and IDS" />
-  <img src="https://img.shields.io/badge/Threat%20Detection-22d3ee?style=flat-square&labelColor=0b0f17&label=%E2%96%B8" alt="Threat Detection" />
-  <img src="https://img.shields.io/badge/Incident%20Response-22d3ee?style=flat-square&labelColor=0b0f17&label=%E2%96%B8" alt="Incident Response" />
+  <img src="https://img.shields.io/badge/Linux-1e2a3d?style=flat-square" alt="Linux" />
+  <img src="https://img.shields.io/badge/SIEM%20%26%20IDS-1e2a3d?style=flat-square" alt="SIEM and IDS" />
+  <img src="https://img.shields.io/badge/Threat%20Detection-1e2a3d?style=flat-square" alt="Threat Detection" />
+  <img src="https://img.shields.io/badge/Incident%20Response-1e2a3d?style=flat-square" alt="Incident Response" />
 </p>
 
 <p align="center"><sub>Also explored: ASP.NET · Kotlin · Android Studio · Jetpack Compose</sub></p>
@@ -135,10 +135,7 @@ now:
 
 <img src="./stats.svg" width="100%" alt="Activity" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Inwtn&show_icons=true&hide_border=true&bg_color=0b0f17&title_color=22d3ee&icon_color=22d3ee&text_color=c9d1d9&border_radius=12" width="49%" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inwtn&layout=compact&hide_border=true&bg_color=0b0f17&title_color=22d3ee&text_color=c9d1d9&border_radius=12" width="49%" alt="Top languages" />
-</p>
+<img src="./activity.svg" width="100%" alt="GitHub activity: 27 public repositories, on GitHub since 2024, focused on Full-Stack and Generative AI" />
 
 <img src="./snake.svg" width="100%" alt="Snake mode" />
 
