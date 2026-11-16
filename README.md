@@ -1,10 +1,10 @@
 <a href="https://github.com/Inwtn">
-  <img src="./banner.svg" width="100%" alt="Isaac Almeida — Software Engineer · Full-Stack · Applied Generative AI · Automation · Cybersecurity" />
+  <img src="./banner.png" width="100%" alt="Isaac Almeida — Software Engineer · Full-Stack · Applied Generative AI · Automation · Cybersecurity" />
 </a>
 
 <p align="center">
   <a href="https://github.com/Inwtn">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=1100&color=22D3EE&center=true&vCenter=true&width=680&height=40&lines=Software+Engineer+%40+3D+Lab;Full-Stack+%C2%B7+Java+%C2%B7+Python+%C2%B7+PHP;Generative+AI+%C2%B7+LLMs+%C2%B7+AI+agents+%C2%B7+RAG;automation+%C2%B7+APIs+%C2%B7+ERP+%C2%B7+cybersecurity" alt="Software Engineer @ 3D Lab · Full-Stack · Generative AI · Automation · Cybersecurity" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=1100&color=FFD735&center=true&vCenter=true&width=680&height=40&lines=Software+Engineer+%40+3D+Lab;Full-Stack+%C2%B7+Java+%C2%B7+Python+%C2%B7+PHP;Generative+AI+%C2%B7+LLMs+%C2%B7+AI+agents+%C2%B7+RAG;automation+%C2%B7+APIs+%C2%B7+ERP+%C2%B7+cybersecurity" alt="Software Engineer @ 3D Lab · Full-Stack · Generative AI · Automation · Cybersecurity" />
   </a>
 </p>
 
@@ -54,20 +54,20 @@ now:
 
 <p align="center"><b><code>AI &amp; Automation</code></b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Generative%20AI-1e2a3d?style=flat-square" alt="Generative AI" />
-  <img src="https://img.shields.io/badge/LLMs-1e2a3d?style=flat-square" alt="LLMs" />
-  <img src="https://img.shields.io/badge/AI%20Agents-1e2a3d?style=flat-square" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/RAG-1e2a3d?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-1e2a3d?style=flat-square" alt="Prompt Engineering" />
-  <img src="https://img.shields.io/badge/AI--Driven%20Development-1e2a3d?style=flat-square" alt="AI-Driven Development" />
+  <img src="https://img.shields.io/badge/Generative%20AI-292819?style=flat-square" alt="Generative AI" />
+  <img src="https://img.shields.io/badge/LLMs-292819?style=flat-square" alt="LLMs" />
+  <img src="https://img.shields.io/badge/AI%20Agents-292819?style=flat-square" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/RAG-292819?style=flat-square" alt="RAG" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-292819?style=flat-square" alt="Prompt Engineering" />
+  <img src="https://img.shields.io/badge/AI--Driven%20Development-292819?style=flat-square" alt="AI-Driven Development" />
 </p>
 
 <p align="center"><b><code>Cybersecurity</code></b></p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-1e2a3d?style=flat-square" alt="Linux" />
-  <img src="https://img.shields.io/badge/SIEM%20%26%20IDS-1e2a3d?style=flat-square" alt="SIEM and IDS" />
-  <img src="https://img.shields.io/badge/Threat%20Detection-1e2a3d?style=flat-square" alt="Threat Detection" />
-  <img src="https://img.shields.io/badge/Incident%20Response-1e2a3d?style=flat-square" alt="Incident Response" />
+  <img src="https://img.shields.io/badge/Linux-292819?style=flat-square" alt="Linux" />
+  <img src="https://img.shields.io/badge/SIEM%20%26%20IDS-292819?style=flat-square" alt="SIEM and IDS" />
+  <img src="https://img.shields.io/badge/Threat%20Detection-292819?style=flat-square" alt="Threat Detection" />
+  <img src="https://img.shields.io/badge/Incident%20Response-292819?style=flat-square" alt="Incident Response" />
 </p>
 
 <p align="center"><sub>Also explored: ASP.NET · Kotlin · Android Studio · Jetpack Compose</sub></p>

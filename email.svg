@@ -1,7 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="380" height="64" viewBox="0 0 380 64" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, Courier New, monospace"><defs></defs>
-<rect x="0.5" y="0.5" width="379" height="63" rx="12" fill="#101827" stroke="#1e2a3d"/>
-<rect x="0" y="14" width="4" height="36" rx="2" fill="#22d3ee"/>
-<text x="28" y="28" font-size="12" fill="#8b98a9" letter-spacing="2">E-MAIL</text>
-<text x="28" y="48" font-size="16" font-weight="700" fill="#22d3ee">isaacreis.dev@gmail.com</text>
-<text x="352" y="38" text-anchor="end" font-size="20" fill="#8b98a9">↗</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="88" viewBox="0 0 360 88" role="img" aria-labelledby="title">
+  <title id="title">Email — Isaac Almeida</title>
+  <rect x="1" y="1" width="358" height="86" rx="10" fill="#0F1214" stroke="#454335" stroke-width="2"/>
+  <path d="M12 12H34M12 12V33M348 76H326M348 76V55" fill="none" stroke="#FFD735" stroke-width="2"/>
+  <path d="M24 40h29v23H24Zm0 1 14.5 12L53 41" fill="none" stroke="#FFD735" stroke-width="2"/>
+  <text x="68" y="34" fill="#FFD735" font-family="Consolas,monospace" font-size="10" letter-spacing="2">E-MAIL</text>
+  <text x="68" y="60" fill="#F3F1EB" font-family="Bahnschrift,Arial,sans-serif" font-size="19">isaacreis.dev@gmail.com</text>
+  <text x="328" y="51" fill="#FFD735" font-family="Consolas,monospace" font-size="19">↗</text>
 </svg>

@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="232" viewBox="0 0 600 232" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, Courier New, monospace"><defs></defs>
-<rect x="0.5" y="0.5" width="599" height="231" rx="14" fill="#101827" stroke="#1e2a3d"/>
-<rect x="0" y="0" width="600" height="3" rx="1.5" fill="#22d3ee" opacity="0.8"/>
-<text x="28" y="40" font-size="12" fill="#22d3ee" letter-spacing="3">PROJECT 02</text>
-<text x="28" y="72" font-size="24" font-weight="700" fill="#e6edf3">Lupa.NET</text>
-<text x="572" y="40" text-anchor="end" font-size="22" fill="#8b98a9">↗</text>
-<text x="28" y="104" font-size="13" fill="#8b98a9">Local .NET assembly explorer powered by ILSpy: reconstructed C#,</text><text x="28" y="125" font-size="13" fill="#8b98a9">IL, metadata, references and strings, without executing the</text><text x="28" y="146" font-size="13" fill="#8b98a9">analyzed code.</text>
-<rect x="28" y="182" width="36.8" height="26" rx="13" fill="none" stroke="#22d3ee" stroke-opacity="0.5"/><text x="46.4" y="199" text-anchor="middle" font-size="12" fill="#22d3ee">C#</text><rect x="72.8" y="182" width="73.80000000000001" height="26" rx="13" fill="none" stroke="#22d3ee" stroke-opacity="0.5"/><text x="109.7" y="199" text-anchor="middle" font-size="12" fill="#22d3ee">Node.js</text><rect x="154.60000000000002" y="182" width="96.0" height="26" rx="13" fill="none" stroke="#22d3ee" stroke-opacity="0.5"/><text x="202.60000000000002" y="199" text-anchor="middle" font-size="12" fill="#22d3ee">PowerShell</text><rect x="258.6" y="182" width="59.0" height="26" rx="13" fill="none" stroke="#22d3ee" stroke-opacity="0.5"/><text x="288.1" y="199" text-anchor="middle" font-size="12" fill="#22d3ee">ILSpy</text>
+<rect x="0.5" y="0.5" width="599" height="231" rx="14" fill="#0F1214" stroke="#454335"/>
+<rect x="0" y="0" width="600" height="3" rx="1.5" fill="#FFD735" opacity="0.8"/>
+<text x="28" y="40" font-size="12" fill="#FFD735" letter-spacing="3">PROJECT 02</text>
+<text x="28" y="72" font-size="24" font-weight="700" fill="#F3F1EB">Lupa.NET</text>
+<text x="572" y="40" text-anchor="end" font-size="22" fill="#AEB1A7">↗</text>
+<text x="28" y="104" font-size="13" fill="#AEB1A7">Local .NET assembly explorer powered by ILSpy: reconstructed C#,</text><text x="28" y="125" font-size="13" fill="#AEB1A7">IL, metadata, references and strings, without executing the</text><text x="28" y="146" font-size="13" fill="#AEB1A7">analyzed code.</text>
+<rect x="28" y="182" width="36.8" height="26" rx="13" fill="none" stroke="#FFD735" stroke-opacity="0.5"/><text x="46.4" y="199" text-anchor="middle" font-size="12" fill="#FFD735">C#</text><rect x="72.8" y="182" width="73.80000000000001" height="26" rx="13" fill="none" stroke="#FFD735" stroke-opacity="0.5"/><text x="109.7" y="199" text-anchor="middle" font-size="12" fill="#FFD735">Node.js</text><rect x="154.60000000000002" y="182" width="96.0" height="26" rx="13" fill="none" stroke="#FFD735" stroke-opacity="0.5"/><text x="202.60000000000002" y="199" text-anchor="middle" font-size="12" fill="#FFD735">PowerShell</text><rect x="258.6" y="182" width="59.0" height="26" rx="13" fill="none" stroke="#FFD735" stroke-opacity="0.5"/><text x="288.1" y="199" text-anchor="middle" font-size="12" fill="#FFD735">ILSpy</text>
 </svg>
