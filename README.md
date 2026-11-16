@@ -9,17 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/isaacalmeida-dev"><img src="./linkedin.svg" width="32%" alt="LinkedIn" /></a>
-  <a href="https://github.com/Inwtn"><img src="./github.svg" width="32%" alt="GitHub" /></a>
-  <a href="mailto:isaacreis.dev@gmail.com"><img src="./email.svg" width="32%" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/isaacalmeida-dev"><img src="./assets/neon/linkedin.svg" width="32%" alt="LinkedIn" /></a>
+  <a href="https://github.com/Inwtn"><img src="./assets/neon/github.svg" width="32%" alt="GitHub" /></a>
+  <a href="mailto:isaacreis.dev@gmail.com"><img src="./assets/neon/email.svg" width="32%" alt="Email" /></a>
 </p>
 
-<img src="./divider.svg" width="100%" alt="" />
+<img src="./assets/neon/divider.svg" width="100%" alt="" />
 
-<img src="./about.svg" width="100%" alt="About me" />
+<img src="./assets/neon/about.svg" width="100%" alt="About me" />
 
 <p align="center">
-  <img src="./terminal.svg" width="100%" alt="isaac@3dlab:~$ whoami — Isaac Almeida, Software Engineer at 3D Lab. Focused on Full-Stack development, applied Generative AI, automation and cybersecurity." />
+  <img src="./assets/neon/terminal.svg" width="100%" alt="isaac@3dlab:~$ whoami — Isaac Almeida, Software Engineer at 3D Lab. Focused on Full-Stack development, applied Generative AI, automation and cybersecurity." />
 </p>
 
 I'm a **Software Engineer at 3D Lab**, where I architect, plan and ship full-stack features for the company's **internal ERP modules**. Day to day I work with **JavaScript, PHP, Laravel and Python**, and I've built and deployed production backend systems in **Java and Spring Boot**. My focus is on automating workflows, integrating APIs and consolidating data across systems.
@@ -35,7 +35,7 @@ now:
   learning:     Cybersecurity (SIEM/IDS, incident response) · RAG · AI agents
 ```
 
-<img src="./stack.svg" width="100%" alt="Stack" />
+<img src="./assets/neon/stack.svg" width="100%" alt="Stack" />
 
 <p align="center"><b><code>Backend &amp; APIs</code></b></p>
 <p align="center">
@@ -72,13 +72,13 @@ now:
 
 <p align="center"><sub>Also explored: ASP.NET · Kotlin · Android Studio · Jetpack Compose</sub></p>
 
-<img src="./projects.svg" width="100%" alt="Projects" />
+<img src="./assets/neon/projects.svg" width="100%" alt="Projects" />
 
 <p align="center">
-  <a href="https://github.com/Inwtn/streamhub"><img src="./streamhub.svg" width="49%" alt="StreamHub — WebRTC screen sharing" /></a>
-  <a href="https://github.com/Inwtn/Lupa.NET"><img src="./lupanet.svg" width="49%" alt="Lupa.NET — .NET assembly explorer" /></a>
-  <a href="https://github.com/Inwtn/MNEME"><img src="./mneme.svg" width="49%" alt="MNEME — financial research platform" /></a>
-  <a href="https://github.com/Inwtn/bank-reconciliation"><img src="./reconciliation.svg" width="49%" alt="Bank Reconciliation Engine" /></a>
+  <a href="https://github.com/Inwtn/streamhub"><img src="./assets/neon/streamhub.svg" width="49%" alt="StreamHub — WebRTC screen sharing" /></a>
+  <a href="https://github.com/Inwtn/Lupa.NET"><img src="./assets/neon/lupanet.svg" width="49%" alt="Lupa.NET — .NET assembly explorer" /></a>
+  <a href="https://github.com/Inwtn/MNEME"><img src="./assets/neon/mneme.svg" width="49%" alt="MNEME — financial research platform" /></a>
+  <a href="https://github.com/Inwtn/bank-reconciliation"><img src="./assets/neon/reconciliation.svg" width="49%" alt="Bank Reconciliation Engine" /></a>
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@ now:
   <a href="https://streamhub-inwtn.onrender.com">StreamHub</a>
 </p>
 
-<img src="./journey.svg" width="100%" alt="Journey" />
+<img src="./assets/neon/journey.svg" width="100%" alt="Journey" />
 
 ```diff
 + 09/2026 → now      Software Engineer · 3D Lab
@@ -119,7 +119,7 @@ now:
 
 </details>
 
-<img src="./certs.svg" width="100%" alt="Certifications" />
+<img src="./assets/neon/certs.svg" width="100%" alt="Certifications" />
 
 | Certification | Issuer | Focus |
 |---|---|---|
@@ -133,11 +133,11 @@ now:
 
 🌍 **Languages:** 🇧🇷 Portuguese (native) · 🇬🇧 English (B2, writing B1)
 
-<img src="./stats.svg" width="100%" alt="Activity" />
+<img src="./assets/neon/stats.svg" width="100%" alt="Activity" />
 
-<img src="./activity.svg" width="100%" alt="GitHub activity: 27 public repositories, on GitHub since 2024, focused on Full-Stack and Generative AI" />
+<img src="./assets/neon/activity.svg" width="100%" alt="GitHub activity: 27 public repositories, on GitHub since 2024, focused on Full-Stack and Generative AI" />
 
-<img src="./snake.svg" width="100%" alt="Snake mode" />
+<img src="./assets/neon/snake.svg" width="100%" alt="Snake mode" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Inwtn/Inwtn/output/github-snake-dark.svg" />

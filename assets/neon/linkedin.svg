@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="360" height="88" viewBox="0 0 360 88" role="img" aria-labelledby="title">
+  <title id="title">LinkedIn — Isaac Almeida</title>
+  <rect x="1" y="1" width="358" height="86" rx="10" fill="#0F1214" stroke="#454335" stroke-width="2"/>
+  <path d="M12 12H34M12 12V33M348 76H326M348 76V55" fill="none" stroke="#FFD735" stroke-width="2"/>
+  <text x="27" y="58" fill="#FFD735" font-family="Georgia,serif" font-size="24" font-weight="700">in</text>
+  <text x="68" y="34" fill="#FFD735" font-family="Consolas,monospace" font-size="10" letter-spacing="2">LINKEDIN</text>
+  <text x="68" y="60" fill="#F3F1EB" font-family="Bahnschrift,Arial,sans-serif" font-size="20">isaacalmeida-dev</text>
+  <text x="328" y="51" fill="#FFD735" font-family="Consolas,monospace" font-size="19">↗</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="88" viewBox="0 0 1200 88" role="img" aria-label="Projects">
+  <rect width="1200" height="88" fill="#0D1012"/>
+  <path d="M28 72H1172" stroke="#3A3D34"/>
+  <path d="M28 72H202" stroke="#FFD735" stroke-width="2"/>
+  <path d="M28 21V55H54" fill="none" stroke="#FFD735" stroke-width="2"/>
+  <text x="74" y="55" fill="#FFD735" font-family="Consolas,monospace" font-size="13" letter-spacing="2">03</text>
+  <text x="125" y="56" fill="#F3F1EB" font-family="Georgia,Times New Roman,serif" font-size="30" font-weight="700">Projects</text>
+</svg>

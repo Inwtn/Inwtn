@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="232" viewBox="0 0 600 232" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, Courier New, monospace"><defs></defs>
+<rect x="0.5" y="0.5" width="599" height="231" rx="14" fill="#0F1214" stroke="#454335"/>
+<rect x="0" y="0" width="600" height="3" rx="1.5" fill="#FFD735" opacity="0.8"/>
+<text x="28" y="40" font-size="12" fill="#FFD735" letter-spacing="3">PROJECT 01</text>
+<text x="28" y="72" font-size="24" font-weight="700" fill="#F3F1EB">StreamHub</text>
+<text x="572" y="40" text-anchor="end" font-size="22" fill="#AEB1A7">↗</text>
+<text x="28" y="104" font-size="13" fill="#AEB1A7">Invite-only screen sharing for small groups: WebRTC streaming for</text><text x="28" y="125" font-size="13" fill="#AEB1A7">up to five viewers, optional room voice calls and connection</text><text x="28" y="146" font-size="13" fill="#AEB1A7">diagnostics.</text>
+<rect x="28" y="182" width="59.0" height="26" rx="13" fill="none" stroke="#FFD735" stroke-opacity="0.5"/><text x="57.5" y="199" text-anchor="middle" font-size="12" fill="#FFD735">React</text><rect x="95.0" y="182" width="73.80000000000001" height="26" rx="13" fill="none" stroke="#FFD735" stroke-opacity="0.5"/><text x="131.9" y="199" text-anchor="middle" font-size="12" fill="#FFD735">Node.js</text><rect x="176.8" y="182" width="88.60000000000001" height="26" rx="13" fill="none" stroke="#FFD735" stroke-opacity="0.5"/><text x="221.10000000000002" y="199" text-anchor="middle" font-size="12" fill="#FFD735">Socket.IO</text><rect x="273.40000000000003" y="182" width="66.4" height="26" rx="13" fill="none" stroke="#FFD735" stroke-opacity="0.5"/><text x="306.6" y="199" text-anchor="middle" font-size="12" fill="#FFD735">WebRTC</text>
+</svg>
