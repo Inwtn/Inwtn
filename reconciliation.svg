@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="600" height="232" viewBox="0 0 600 232" font-family="JetBrains Mono, SF Mono, Menlo, Consolas, Courier New, monospace"><defs></defs>
-<rect x="0.5" y="0.5" width="599" height="231" rx="14" fill="#0F1214" stroke="#454335"/>
-<rect x="0" y="0" width="600" height="3" rx="1.5" fill="#FFD735" opacity="0.8"/>
-<text x="28" y="40" font-size="12" fill="#FFD735" letter-spacing="3">PROJECT 04</text>
-<text x="28" y="72" font-size="24" font-weight="700" fill="#F3F1EB">Bank Reconciliation Engine</text>
-<text x="572" y="40" text-anchor="end" font-size="22" fill="#AEB1A7">↗</text>
-<text x="28" y="104" font-size="13" fill="#AEB1A7">Cross-references bank statements (OFX/CSV) with financial entries</text><text x="28" y="125" font-size="13" fill="#AEB1A7">and tags each transaction Reconciled, Divergent or Pending. Web</text><text x="28" y="146" font-size="13" fill="#AEB1A7">dashboard and Swagger API.</text>
-<rect x="28" y="182" width="73.80000000000001" height="26" rx="13" fill="none" stroke="#FFD735" stroke-opacity="0.5"/><text x="64.9" y="199" text-anchor="middle" font-size="12" fill="#FFD735">OFX/CSV</text><rect x="109.80000000000001" y="182" width="81.2" height="26" rx="13" fill="none" stroke="#FFD735" stroke-opacity="0.5"/><text x="150.4" y="199" text-anchor="middle" font-size="12" fill="#FFD735">REST API</text><rect x="199.0" y="182" width="73.80000000000001" height="26" rx="13" fill="none" stroke="#FFD735" stroke-opacity="0.5"/><text x="235.9" y="199" text-anchor="middle" font-size="12" fill="#FFD735">Swagger</text>
+<rect x="0.5" y="0.5" width="599" height="231" rx="14" fill="#0B0B10" stroke="#393641"/>
+<rect x="0" y="0" width="600" height="3" rx="1.5" fill="#D3CADD" opacity="0.8"/>
+<text x="28" y="40" font-size="12" fill="#D3CADD" letter-spacing="3">PROJECT 04</text>
+<text x="28" y="72" font-size="24" font-weight="700" fill="#F1EEE9">Bank Reconciliation Engine</text>
+<text x="572" y="40" text-anchor="end" font-size="22" fill="#A9A3AF">↗</text>
+<text x="28" y="104" font-size="13" fill="#A9A3AF">Cross-references bank statements (OFX/CSV) with financial entries</text><text x="28" y="125" font-size="13" fill="#A9A3AF">and tags each transaction Reconciled, Divergent or Pending. Web</text><text x="28" y="146" font-size="13" fill="#A9A3AF">dashboard and Swagger API.</text>
+<rect x="28" y="182" width="73.80000000000001" height="26" rx="13" fill="none" stroke="#D3CADD" stroke-opacity="0.5"/><text x="64.9" y="199" text-anchor="middle" font-size="12" fill="#D3CADD">OFX/CSV</text><rect x="109.80000000000001" y="182" width="81.2" height="26" rx="13" fill="none" stroke="#D3CADD" stroke-opacity="0.5"/><text x="150.4" y="199" text-anchor="middle" font-size="12" fill="#D3CADD">REST API</text><rect x="199.0" y="182" width="73.80000000000001" height="26" rx="13" fill="none" stroke="#D3CADD" stroke-opacity="0.5"/><text x="235.9" y="199" text-anchor="middle" font-size="12" fill="#D3CADD">Swagger</text>
 </svg>
