@@ -1,9 +1,16 @@
-# Spatial visual identity
+# Visual identity
 
-The profile README follows the [Event Horizon portfolio](https://isaac-reis.vercel.app/): near-black space, silver typography, the original black-hole artwork, orbit markers and small golden-yellow signal points that connect to Isaac's avatar.
+The profile uses a dark graphite base with a focused neon yellow accent. The banner background is an original image generated for Isaac Almeida, with editable type and accents in `banner.svg`.
 
-`banner-space.png` is the standalone GitHub banner. `banner-space.svg` and `event-horizon.png` are its editable source. The black-hole image comes from Isaac's portfolio repository (`src/horizon/event-horizon.png`).
+| Role | Color |
+| --- | --- |
+| Neon yellow | `#FFD735` |
+| Light yellow | `#FFE365` |
+| Graphite | `#080B0D` |
+| Panel | `#0F1214` |
+| Main text | `#F3F1EB` |
+| Secondary text | `#AEB1A7` |
 
-The contact cards, section headings, signal panel and selected-work cards were adapted for the README. `banner.png`, `banner.svg` and `banner-background.png` preserve the previous neon-tech direction as alternate assets.
+The banner pairs Georgia Bold with Bahnschrift and Consolas. `banner.png` is the file used by the README. `banner.svg` and `banner-background.png` are editable source assets. The contact cards, section headings, terminal, project cards and snake workflow follow the same palette.
 
-The profile's GitHub account avatar is a separate account setting and is not changed by this repository.
+`avatar.png` is provided as a matching profile picture. Uploading it as the GitHub account avatar is a separate account setting; adding it to this repository does not change the account avatar.

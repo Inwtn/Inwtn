@@ -1,10 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="80" viewBox="0 0 1200 80" role="img" aria-label="The signal">
-  <defs><linearGradient id="line"><stop offset="0" stop-color="#B8B1C1" stop-opacity=".55"/><stop offset="1" stop-color="#B8B1C1" stop-opacity="0"/></linearGradient></defs>
-  <rect width="1200" height="80" fill="#08080A"/>
-  <circle cx="43" cy="40" r="23" fill="none" stroke="#484550" stroke-width="1"/>
-  <path d="M43 17A23 23 0 0 1 63 29" fill="none" stroke="#D6CFDC" stroke-width="1.5"/>
-  <circle cx="63" cy="29" r="2.5" fill="#FFD735"/>
-  <text x="43" y="45" text-anchor="middle" fill="#A9A3AF" font-family="Consolas,monospace" font-size="12">01</text>
-  <text x="87" y="49" fill="#F1EEE9" font-family="Segoe UI,Arial,sans-serif" font-size="29" font-weight="400">The signal</text>
-  <path d="M360 40H1170" stroke="url(#line)" stroke-width="1"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="88" viewBox="0 0 1200 88" role="img" aria-label="About me">
+  <rect width="1200" height="88" fill="#0D1012"/>
+  <path d="M28 72H1172" stroke="#3A3D34"/>
+  <path d="M28 72H202" stroke="#FFD735" stroke-width="2"/>
+  <path d="M28 21V55H54" fill="none" stroke="#FFD735" stroke-width="2"/>
+  <text x="74" y="55" fill="#FFD735" font-family="Consolas,monospace" font-size="13" letter-spacing="2">01</text>
+  <text x="125" y="56" fill="#F3F1EB" font-family="Georgia,Times New Roman,serif" font-size="30" font-weight="700">About me</text>
 </svg>
