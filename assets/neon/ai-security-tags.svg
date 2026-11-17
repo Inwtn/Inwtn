@@ -3,7 +3,7 @@
   <desc id="desc">Large language models, retrieval-augmented generation, AI agents, SIEM and IDS, and threat detection.</desc>
   <rect x="1" y="1" width="918" height="80" rx="8" fill="#0F1214" stroke="#454335"/>
   <path d="M28 22h14v38H28" fill="none" stroke="#FFD735" stroke-width="2"/>
-  <text x="59" y="48" fill="#FFD735" font-family="Consolas,monospace" font-size="12" letter-spacing="1.5">AI · AUTOMATION · SECURITY</text>
+  <text x="59" y="35" fill="#FFD735" font-family="Consolas,monospace" font-size="12" letter-spacing="1.5">AI · AUTOMATION · SECURITY</text>
   <g font-family="Consolas,monospace" font-size="13" text-anchor="middle">
     <rect x="300" y="16" width="78" height="28" rx="4" fill="#292819" stroke="#6C5B1B"/><text x="339" y="35" fill="#F3F1EB">LLMs</text>
     <rect x="387" y="16" width="65" height="28" rx="4" fill="#292819" stroke="#6C5B1B"/><text x="419.5" y="35" fill="#F3F1EB">RAG</text>
