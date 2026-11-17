@@ -39,7 +39,7 @@
 <p align="center"><b><code>DATA &amp; TOOLS</code></b></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux&theme=dark" alt="MySQL, PostgreSQL, Git, GitHub and Linux" /></p>
 
-<p align="center"><img src="./assets/neon/ai-security-tags-v3.svg" width="100%" alt="AI, automation and security skills: LLMs, RAG, AI agents, SIEM, IDS, threat detection." /></p>
+<p align="center"><img src="./assets/neon/ai-security-tags-v4.svg" width="100%" alt="AI, automation and security skills: LLMs, RAG, AI agents, SIEM, IDS, threat detection." /></p>
 
 <img src="./assets/neon/journey.svg" width="100%" alt="Career journey" />
 <p align="center"><img src="./assets/neon/experience-cards.svg" width="100%" alt="Software Engineer at 3D Lab, Software Developer, and Financial Analyst experience." /></p>
