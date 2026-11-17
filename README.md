@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-banner-v2.png" width="100%" alt="ISAAC ALMEIDA — Software Engineer · Full-Stack · Applied AI" />
+  <img src="./profile-banner-v3.png" width="100%" alt="ISAAC ALMEIDA — Software Engineer · Full-Stack · Applied AI" />
 </p>
 
 <p align="center">
