@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="72" viewBox="0 0 560 72" role="img" aria-labelledby="title">
+  <title id="title">Open MNEME application</title>
+  <rect x="1" y="1" width="558" height="70" rx="8" fill="#0F1214" stroke="#454335"/>
+  <path d="M18 18h12v36H18" fill="none" stroke="#FFD735" stroke-width="2"/>
+  <text x="45" y="41" fill="#FFD735" font-family="Consolas,monospace" font-size="11" letter-spacing="1">LIVE APP</text>
+  <rect x="160" y="18" width="375" height="36" rx="4" fill="#292819" stroke="#6C5B1B"/>
+  <text x="347.5" y="41" fill="#F3F1EB" text-anchor="middle" font-family="Consolas,monospace" font-size="13">OPEN MNEME ↗</text>
+</svg>
