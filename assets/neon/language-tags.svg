@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="72" viewBox="0 0 560 72" role="img" aria-labelledby="title desc">
+  <title id="title">Languages</title>
+  <desc id="desc">Portuguese native, English B2, writing B1.</desc>
+  <rect x="1" y="1" width="558" height="70" rx="8" fill="#0F1214" stroke="#454335"/>
+  <path d="M18 18h12v36H18" fill="none" stroke="#FFD735" stroke-width="2"/>
+  <text x="45" y="41" fill="#FFD735" font-family="Consolas,monospace" font-size="11" letter-spacing="1">LANGUAGES</text>
+  <rect x="155" y="18" width="120" height="36" rx="4" fill="#292819" stroke="#6C5B1B"/>
+  <text x="215" y="33" fill="#F3F1EB" text-anchor="middle" font-family="Consolas,monospace" font-size="11">PORTUGUESE</text>
+  <text x="215" y="47" fill="#AEB1A7" text-anchor="middle" font-family="Consolas,monospace" font-size="10">NATIVE</text>
+  <rect x="286" y="18" width="250" height="36" rx="4" fill="#292819" stroke="#6C5B1B"/>
+  <text x="411" y="33" fill="#F3F1EB" text-anchor="middle" font-family="Consolas,monospace" font-size="11">ENGLISH · B2</text>
+  <text x="411" y="47" fill="#AEB1A7" text-anchor="middle" font-family="Consolas,monospace" font-size="10">WRITING · B1</text>
+</svg>

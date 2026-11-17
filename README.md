@@ -23,7 +23,10 @@
   <a href="https://github.com/Inwtn/MNEME"><img src="./assets/neon/mneme.svg" width="49%" alt="MNEME — financial research platform" /></a>
 </p>
 
-<p align="center"><a href="https://streamhub-inwtn.onrender.com">OPEN STREAMHUB DEMO ↗</a> &nbsp;·&nbsp; <a href="https://mneme-1b8.pages.dev/">OPEN MNEME ↗</a></p>
+<p align="center">
+  <a href="https://streamhub-inwtn.onrender.com"><img src="./assets/neon/live-streamhub.svg" width="49%" alt="Open StreamHub demo" /></a>
+  <a href="https://mneme-1b8.pages.dev/"><img src="./assets/neon/live-mneme.svg" width="49%" alt="Open MNEME application" /></a>
+</p>
 
 <img src="./assets/neon/stack.svg" width="100%" alt="Technical skills" />
 
@@ -36,13 +39,7 @@
 <p align="center"><b><code>DATA &amp; TOOLS</code></b></p>
 <p align="center"><img src="https://skillicons.dev/icons?i=mysql,postgres,git,github,linux&theme=dark" alt="MySQL, PostgreSQL, Git, GitHub and Linux" /></p>
 
-<p align="center"><b><code>AI · AUTOMATION · SECURITY</code></b><br />
-  <img src="https://img.shields.io/badge/LLMs-292819?style=flat-square" alt="LLMs" />
-  <img src="https://img.shields.io/badge/RAG-292819?style=flat-square" alt="RAG" />
-  <img src="https://img.shields.io/badge/AI%20Agents-292819?style=flat-square" alt="AI Agents" />
-  <img src="https://img.shields.io/badge/SIEM%20%2F%20IDS-292819?style=flat-square" alt="SIEM and IDS" />
-  <img src="https://img.shields.io/badge/Threat%20Detection-292819?style=flat-square" alt="Threat Detection" />
-</p>
+<p align="center"><img src="./assets/neon/ai-security-tags.svg" width="100%" alt="AI, automation and security skills: LLMs, RAG, AI agents, SIEM, IDS, threat detection." /></p>
 
 <img src="./assets/neon/journey.svg" width="100%" alt="Career journey" />
 <p align="center"><img src="./assets/neon/experience-cards.svg" width="100%" alt="Software Engineer at 3D Lab, Software Developer, and Financial Analyst experience." /></p>
@@ -50,7 +47,7 @@
 <img src="./assets/neon/certs.svg" width="100%" alt="Education and certifications" />
 <p align="center"><img src="./assets/neon/certification-cards.svg" width="100%" alt="Systems Analysis and Development degree, Google and IBM cybersecurity certifications, and Santander RAG and Python training." /></p>
 
-<p align="center"><code>PORTUGUESE</code> Native &nbsp;·&nbsp; <code>ENGLISH</code> B2 · Writing B1</p>
+<p align="center"><img src="./assets/neon/language-tags.svg" width="70%" alt="Portuguese native. English B2, writing B1." /></p>
 
 <img src="./assets/neon/stats.svg" width="100%" alt="GitHub activity" />
 
