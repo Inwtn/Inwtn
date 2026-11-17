@@ -1,14 +1,14 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="82" viewBox="0 0 920 82" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="104" viewBox="0 0 920 104" role="img" aria-labelledby="title desc">
   <title id="title">AI, automation and security skills</title>
   <desc id="desc">Large language models, retrieval-augmented generation, AI agents, SIEM and IDS, and threat detection.</desc>
-  <rect x="1" y="1" width="918" height="80" rx="8" fill="#0F1214" stroke="#454335"/>
-  <path d="M28 22h14v38H28" fill="none" stroke="#FFD735" stroke-width="2"/>
-  <text x="59" y="35" fill="#FFD735" font-family="Consolas,monospace" font-size="12" letter-spacing="1.5">AI · AUTOMATION · SECURITY</text>
+  <rect x="1" y="1" width="918" height="102" rx="8" fill="#0F1214" stroke="#454335"/>
+  <path d="M28 24h14v56H28" fill="none" stroke="#FFD735" stroke-width="2"/>
+  <text x="460" y="31" text-anchor="middle" fill="#FFD735" font-family="Consolas,monospace" font-size="12" letter-spacing="1.5">AI · AUTOMATION · SECURITY</text>
   <g font-family="Consolas,monospace" font-size="13" text-anchor="middle">
-    <rect x="300" y="16" width="78" height="28" rx="4" fill="#292819" stroke="#6C5B1B"/><text x="339" y="35" fill="#F3F1EB">LLMs</text>
-    <rect x="387" y="16" width="65" height="28" rx="4" fill="#292819" stroke="#6C5B1B"/><text x="419.5" y="35" fill="#F3F1EB">RAG</text>
-    <rect x="461" y="16" width="116" height="28" rx="4" fill="#292819" stroke="#6C5B1B"/><text x="519" y="35" fill="#F3F1EB">AI Agents</text>
-    <rect x="586" y="16" width="110" height="28" rx="4" fill="#292819" stroke="#6C5B1B"/><text x="641" y="35" fill="#F3F1EB">SIEM / IDS</text>
-    <rect x="705" y="16" width="188" height="28" rx="4" fill="#292819" stroke="#6C5B1B"/><text x="799" y="35" fill="#F3F1EB">Threat Detection</text>
+    <rect x="164" y="49" width="100" height="32" rx="4" fill="#292819" stroke="#6C5B1B"/><text x="214" y="70" fill="#F3F1EB">LLMs</text>
+    <rect x="276" y="49" width="100" height="32" rx="4" fill="#292819" stroke="#6C5B1B"/><text x="326" y="70" fill="#F3F1EB">RAG</text>
+    <rect x="388" y="49" width="132" height="32" rx="4" fill="#292819" stroke="#6C5B1B"/><text x="454" y="70" fill="#F3F1EB">AI Agents</text>
+    <rect x="532" y="49" width="132" height="32" rx="4" fill="#292819" stroke="#6C5B1B"/><text x="598" y="70" fill="#F3F1EB">SIEM / IDS</text>
+    <rect x="676" y="49" width="188" height="32" rx="4" fill="#292819" stroke="#6C5B1B"/><text x="770" y="70" fill="#F3F1EB">Threat Detection</text>
   </g>
 </svg>
