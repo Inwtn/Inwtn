@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" font-family="Consolas,monospace" role="img" aria-labelledby="title desc">
+  <title id="title">Experience</title>
+  <desc id="desc">Three professional experience cards for software engineering, software development, and financial operations.</desc>
+  <rect width="1200" height="350" fill="#080B0D"/>
+  <g fill="#0F1214" stroke="#454335">
+    <rect x="20" y="18" width="1160" height="94" rx="10"/>
+    <rect x="20" y="128" width="1160" height="94" rx="10"/>
+    <rect x="20" y="238" width="1160" height="94" rx="10"/>
+  </g>
+  <g fill="#FFD735" font-size="12" letter-spacing="1.2">
+    <text x="44" y="48">SEP 2026 — PRESENT</text>
+    <text x="44" y="158">FEB 2025 — JUN 2026</text>
+    <text x="44" y="268">OCT 2020 — FEB 2025</text>
+  </g>
+  <g fill="#F3F1EB" font-size="18" font-weight="700">
+    <text x="44" y="77">SOFTWARE ENGINEER · 3D LAB</text>
+    <text x="44" y="187">SOFTWARE DEVELOPER</text>
+    <text x="44" y="297">FINANCIAL ANALYST · BENERICKS COCKTAIL CO</text>
+  </g>
+  <g fill="#AEB1A7" font-size="13">
+    <text x="430" y="53">Internal ERP · Full-stack features · API integrations · Applied AI</text>
+    <text x="430" y="78">JavaScript · PHP / Laravel · Python</text>
+    <text x="430" y="163">Java and Spring Boot services · REST APIs · Process automation</text>
+    <text x="430" y="188">Cash flow integrations · Event-driven microservices</text>
+    <text x="430" y="273">Cash flow · Bank reconciliation · Accounts payable / receivable</text>
+    <text x="430" y="298">Automated recurring finance routines with spreadsheets and digital tools</text>
+  </g>
+</svg>

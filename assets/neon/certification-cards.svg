@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" font-family="Consolas,monospace" role="img" aria-labelledby="title desc">
+  <title id="title">Education and certifications</title>
+  <desc id="desc">Systems Analysis and Development degree and cybersecurity, RAG, and data certifications.</desc>
+  <rect width="1200" height="300" fill="#080B0D"/>
+  <g fill="#0F1214" stroke="#454335">
+    <rect x="20" y="18" width="570" height="116" rx="10"/>
+    <rect x="610" y="18" width="570" height="116" rx="10"/>
+    <rect x="20" y="158" width="570" height="116" rx="10"/>
+    <rect x="610" y="158" width="570" height="116" rx="10"/>
+  </g>
+  <g fill="#FFD735" font-size="11" letter-spacing="1.3">
+    <text x="44" y="48">EDUCATION · 2025 — PRESENT</text>
+    <text x="634" y="48">GOOGLE · 2026</text>
+    <text x="44" y="188">IBM · 2026</text>
+    <text x="634" y="188">SANTANDER</text>
+  </g>
+  <g fill="#F3F1EB" font-size="17" font-weight="700">
+    <text x="44" y="82">SYSTEMS ANALYSIS</text>
+    <text x="44" y="105">AND DEVELOPMENT</text>
+    <text x="634" y="82">GOOGLE CYBERSECURITY</text>
+    <text x="44" y="222">STARTED WITH CYBERSECURITY</text>
+    <text x="634" y="222">RAG · CHROMADB · LLAMAINDEX</text>
+  </g>
+  <g fill="#AEB1A7" font-size="12">
+    <text x="44" y="124">Newton Paiva / Wyden · Brazil</text>
+    <text x="634" y="108">Threats · Linux · SIEM / IDS · Incident response</text>
+    <text x="44" y="248">Security concepts · Encryption · Malware · Defense</text>
+    <text x="634" y="248">Python · Data analysis · AI applications</text>
+  </g>
+</svg>
