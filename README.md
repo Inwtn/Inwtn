@@ -12,13 +12,7 @@
 
 <img src="./assets/neon/about.svg" width="100%" alt="About" />
 
-<p align="center"><img src="./assets/neon/terminal.svg" width="100%" alt="Software engineer focused on full-stack development, applied AI and automation." /></p>
-
-I build internal ERP features, integrations and automation with **JavaScript, PHP, Laravel and Python**. I have also built production services with **Java and Spring Boot**. My financial operations background helps me understand business rules before turning them into software.
-
-Before moving into software engineering, I spent more than four years working in financial operations, including cash flow, bank reconciliation and accounts payable/receivable.
-
-<p align="center"><code>BUSINESS OPERATIONS</code> &nbsp; <code>SOFTWARE ENGINEERING</code> &nbsp; <code>PROCESS AUTOMATION</code></p>
+<p align="center"><img src="./assets/neon/terminal.svg" width="100%" alt="Software engineer at 3D Lab, focused on full-stack development, applied AI, process automation, and informed by more than four years in financial operations." /></p>
 
 <img src="./assets/neon/projects.svg" width="100%" alt="Featured projects" />
 
@@ -51,40 +45,10 @@ Before moving into software engineering, I spent more than four years working in
 </p>
 
 <img src="./assets/neon/journey.svg" width="100%" alt="Career journey" />
-
-<p align="center">
-  <img src="./assets/neon/terminal.svg" width="100%" alt="Career timeline: Software Engineer at 3D Lab, Software Developer, Financial Analyst, and Systems Analysis and Development student." />
-</p>
-
-<details>
-<summary><b>Experience in detail</b></summary>
-<br />
-
-**Software Engineer · 3D Lab** · *Sep 2026 – Present*
-- Build full-stack features for internal ERP modules
-- Work with JavaScript, PHP, Laravel, Python, databases and API integrations
-- Apply generative AI and automation to improve workflows
-
-**Software Developer** · *Feb 2025 – Jun 2026*
-- Built and deployed Java and Spring Boot backend services
-- Automated cash flow processes and integrations with Google Sheets
-- Developed REST APIs and maintained event-driven microservices
-
-**Financial Analyst · Benericks Cocktail Co** · *Oct 2020 – Feb 2025*
-- Managed cash flow, accounts payable/receivable and bank reconciliation
-- Automated recurring finance routines with spreadsheets and digital tools
-
-</details>
+<p align="center"><img src="./assets/neon/experience-cards.svg" width="100%" alt="Software Engineer at 3D Lab, Software Developer, and Financial Analyst experience." /></p>
 
 <img src="./assets/neon/certs.svg" width="100%" alt="Education and certifications" />
-
-<p align="center"><code>SYSTEMS ANALYSIS AND DEVELOPMENT</code><br />Newton Paiva / Wyden · 2025 – Present</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Google-Cybersecurity-292819?style=flat-square" alt="Google Cybersecurity" />
-  <img src="https://img.shields.io/badge/IBM-Cybersecurity-292819?style=flat-square" alt="IBM Cybersecurity" />
-  <img src="https://img.shields.io/badge/Santander-RAG%20%26%20Python-292819?style=flat-square" alt="Santander RAG and Python" />
-</p>
+<p align="center"><img src="./assets/neon/certification-cards.svg" width="100%" alt="Systems Analysis and Development degree, Google and IBM cybersecurity certifications, and Santander RAG and Python training." /></p>
 
 <p align="center"><code>PORTUGUESE</code> Native &nbsp;·&nbsp; <code>ENGLISH</code> B2 · Writing B1</p>
 
