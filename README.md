@@ -2,9 +2,6 @@
   <img src="./mockup-game-bg.png" width="100%" alt="Neon pixel art landscape in graphite and yellow" />
 </p>
 
-<h1 align="center">ISAAC ALMEIDA</h1>
-<p align="center"><code>SOFTWARE ENGINEER</code> &nbsp;·&nbsp; <code>FULL-STACK</code> &nbsp;·&nbsp; <code>APPLIED AI</code> &nbsp;·&nbsp; <code>AUTOMATION</code></p>
-
 <p align="center">
   <a href="mailto:isaacreis.dev@gmail.com">[ GET IN TOUCH ]</a> &nbsp;·&nbsp;
   <a href="https://github.com/Inwtn">[ GITHUB ]</a> &nbsp;·&nbsp;
@@ -15,7 +12,7 @@
   <img src="./assets/neon/divider.svg" width="100%" alt="" />
 </p>
 
-<p align="center"><code>ROLE</code> Software Engineer &nbsp; <code>FOCUS</code> Automation + APIs &nbsp; <code>BASED AT</code> 3D Lab · ERP</p>
+<p align="center"><code>FOCUS</code> Automation + APIs &nbsp; <code>BASED AT</code> 3D Lab · ERP</p>
 
 ## 01 / ABOUT
 
