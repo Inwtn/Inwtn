@@ -26,7 +26,7 @@ I'm a **Software Engineer at 3D Lab**, where I architect, plan and ship full-sta
 
 I use **Generative AI, LLMs and AI agents** to boost productivity, from custom scripts and automations to refining features with prompt engineering. I'm also expanding into **cybersecurity**, driven by a genuine interest in building more secure and resilient systems.
 
-Before moving into software, I spent **over four years in financial operations** (cash flow, bank reconciliation, accounts payable/receivable). That gave me a practical, detail-oriented approach to problem-solving and a real understanding of the business rules behind the systems I build. You can see that background in projects like the [Bank Reconciliation Engine](https://github.com/Inwtn/bank-reconciliation), and my curiosity about AI and security in [MNEME](https://github.com/Inwtn/MNEME) and [Lupa.NET](https://github.com/Inwtn/Lupa.NET).
+Before moving into software, I spent **over four years in financial operations** (cash flow, bank reconciliation, accounts payable/receivable). That gave me a practical, detail-oriented approach to problem-solving and a real understanding of the business rules behind the systems I build. You can see that background in projects like the [Bank Reconciliation Engine](https://github.com/Inwtn/bank-reconciliation), and my curiosity about AI and security in [MNEME](https://github.com/Inwtn/MNEME) and [Lupa.NET](https://github.com/Inwtn/lupa-net).
 
 ```yaml
 now:
@@ -34,6 +34,20 @@ now:
   building:     MNEME (financial research) · Bank Reconciliation Engine · StreamHub
   learning:     Cybersecurity (SIEM/IDS, incident response) · RAG · AI agents
 ```
+
+<img src="./assets/neon/projects.svg" width="100%" alt="Projects" />
+
+<p align="center">
+  <a href="https://github.com/Inwtn/streamhub"><img src="./assets/neon/streamhub.svg" width="49%" alt="StreamHub — WebRTC screen sharing" /></a>
+  <a href="https://github.com/Inwtn/lupa-net"><img src="./assets/neon/lupanet.svg" width="49%" alt="Lupa.NET — .NET assembly explorer" /></a>
+  <a href="https://github.com/Inwtn/MNEME"><img src="./assets/neon/mneme.svg" width="49%" alt="MNEME — financial research platform" /></a>
+  <a href="https://github.com/Inwtn/bank-reconciliation"><img src="./assets/neon/reconciliation.svg" width="49%" alt="Bank Reconciliation Engine" /></a>
+</p>
+
+<p align="center">
+  <b>Live&nbsp;→</b>
+  <a href="https://github.com/Inwtn/streamhub">StreamHub source</a> · <a href="https://streamhub-inwtn.onrender.com">Live demo</a>
+</p>
 
 <img src="./assets/neon/stack.svg" width="100%" alt="Stack" />
 
@@ -72,26 +86,12 @@ now:
 
 <p align="center"><sub>Also explored: ASP.NET · Kotlin · Android Studio · Jetpack Compose</sub></p>
 
-<img src="./assets/neon/projects.svg" width="100%" alt="Projects" />
-
-<p align="center">
-  <a href="https://github.com/Inwtn/streamhub"><img src="./assets/neon/streamhub.svg" width="49%" alt="StreamHub — WebRTC screen sharing" /></a>
-  <a href="https://github.com/Inwtn/Lupa.NET"><img src="./assets/neon/lupanet.svg" width="49%" alt="Lupa.NET — .NET assembly explorer" /></a>
-  <a href="https://github.com/Inwtn/MNEME"><img src="./assets/neon/mneme.svg" width="49%" alt="MNEME — financial research platform" /></a>
-  <a href="https://github.com/Inwtn/bank-reconciliation"><img src="./assets/neon/reconciliation.svg" width="49%" alt="Bank Reconciliation Engine" /></a>
-</p>
-
-<p align="center">
-  <b>Live&nbsp;→</b>
-  <a href="https://streamhub-inwtn.onrender.com">StreamHub</a>
-</p>
-
 <img src="./assets/neon/journey.svg" width="100%" alt="Journey" />
 
 ```diff
 + 09/2026 → now      Software Engineer · 3D Lab
 +                    full-stack internal ERP · JS · PHP/Laravel · Python · Generative AI · APIs
-! 02/2025 → 06/2026  Software Developer · 
+! 02/2025 → 06/2026  Software Developer
 !                    Java/Spring Boot backend · microservices · REST APIs · automation
 # 10/2020 → 02/2025  Financial Analyst · Benericks Cocktail Co
 # 2025 → now         Systems Analysis and Development · Newton Paiva / Wyden
@@ -107,7 +107,7 @@ now:
 - Apply **Generative AI, LLMs, AI agents and prompt engineering** to create automations, refine features and improve productivity
 - Work in agile cycles (sprints, planning, review), with feature testing, structured bug reporting and technical documentation
 
-**Software Developer · [COMPANY NAME]** · *Feb 2025 – Jun 2026*
+**Software Developer** · *Feb 2025 – Jun 2026*
 - Developed and deployed a **Java** backend that automated repetitive tasks, eliminating manual processes and boosting team productivity
 - Automated cash flow management (up to **R$100k/month**) through automatic data feeds into smart spreadsheets
 - Maintained and evolved **Java and Spring Boot** microservices and structured event-driven architectures to capture and record critical business information
