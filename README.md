@@ -8,6 +8,7 @@
   <a href="https://www.linkedin.com/in/isaacalmeida-dev"><img src="./assets/neon/linkedin.svg" width="32%" alt="LinkedIn" /></a>
 </p>
 
+
 <img src="./assets/neon/divider.svg" width="100%" alt="" />
 
 <img src="./assets/neon/about.svg" width="100%" alt="About" />
