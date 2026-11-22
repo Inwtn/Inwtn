@@ -2,6 +2,7 @@
   <img src="./profile-banner-v3.png" width="100%" alt="ISAAC ALMEIDA — Software Engineer · Full-Stack · Applied AI" />
 </p>
 
+
 <p align="center">
   <a href="mailto:isaacreis.dev@gmail.com"><img src="./assets/neon/email.svg" width="32%" alt="Email" /></a>
   <a href="https://github.com/Inwtn"><img src="./assets/neon/github.svg" width="32%" alt="GitHub" /></a>
