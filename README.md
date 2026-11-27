@@ -17,15 +17,15 @@
 <img src="./assets/neon/projects.svg" width="100%" alt="Featured projects" />
 
 <p align="center">
-  <a href="https://github.com/Inwtn/bank-reconciliation"><img src="./assets/neon/reconciliation.svg" width="49%" alt="Bank Reconciliation Engine — automated OFX and CSV reconciliation" /></a>
-  <a href="https://github.com/Inwtn/streamhub"><img src="./assets/neon/streamhub.svg" width="49%" alt="StreamHub — WebRTC screen sharing" /></a>
-  <a href="https://github.com/Inwtn/lupa-net"><img src="./assets/neon/lupanet.svg" width="49%" alt="Lupa.NET — .NET assembly explorer" /></a>
-  <a href="https://github.com/Inwtn/MNEME"><img src="./assets/neon/mneme.svg" width="49%" alt="MNEME — financial research platform" /></a>
+  <a href="https://github.com/Inwtn/bank-reconciliation"><img src="./assets/neon/reconciliation.gif" width="49%" alt="Bank Reconciliation Engine — automated OFX and CSV reconciliation" /></a>
+  <a href="https://github.com/Inwtn/streamhub"><img src="./assets/neon/streamhub.gif" width="49%" alt="StreamHub — WebRTC screen sharing" /></a>
+  <a href="https://github.com/Inwtn/lupa-net"><img src="./assets/neon/lupanet.gif" width="49%" alt="Lupa.NET — .NET assembly explorer" /></a>
+  <a href="https://github.com/Inwtn/MNEME"><img src="./assets/neon/mneme.gif" width="49%" alt="MNEME — financial research platform" /></a>
 </p>
 
 <p align="center">
-  <a href="https://streamhub-inwtn.onrender.com"><img src="./assets/neon/live-streamhub.svg" width="49%" alt="Open StreamHub demo" /></a>
-  <a href="https://mneme-1b8.pages.dev/"><img src="./assets/neon/live-mneme.svg" width="49%" alt="Open MNEME application" /></a>
+  <a href="https://streamhub-inwtn.onrender.com"><img src="./assets/neon/live-streamhub.gif" width="49%" alt="Open StreamHub demo" /></a>
+  <a href="https://mneme-1b8.pages.dev/"><img src="./assets/neon/live-mneme.gif" width="49%" alt="Open MNEME application" /></a>
 </p>
 
 <img src="./assets/neon/stack.svg" width="100%" alt="Technical skills" />
@@ -42,10 +42,10 @@
 <p align="center"><img src="./assets/neon/ai-security-tags-v4.svg" width="100%" alt="AI, automation and security skills: LLMs, RAG, AI agents, SIEM, IDS, threat detection." /></p>
 
 <img src="./assets/neon/journey.svg" width="100%" alt="Career journey" />
-<p align="center"><img src="./assets/neon/experience-cards.svg" width="100%" alt="Software Engineer at 3D Lab, Software Developer, and Financial Analyst experience." /></p>
+<p align="center"><img src="./assets/neon/experience-cards.gif" width="100%" alt="Software Engineer at 3D Lab, Software Developer, and Financial Analyst experience." /></p>
 
 <img src="./assets/neon/certs.svg" width="100%" alt="Education and certifications" />
-<p align="center"><img src="./assets/neon/certification-cards.svg" width="100%" alt="Systems Analysis and Development degree, Google and IBM cybersecurity certifications, and Santander RAG and Python training." /></p>
+<p align="center"><img src="./assets/neon/certification-cards.gif" width="100%" alt="Systems Analysis and Development degree, Google and IBM cybersecurity certifications, and Santander RAG and Python training." /></p>
 
 <p align="center"><img src="./assets/neon/language-tags.svg" width="70%" alt="Portuguese native. English B2, writing B1." /></p>
 
