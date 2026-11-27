@@ -1,0 +1,182 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#080B0D" />
+  <title>Isaac Almeida — README mockup</title>
+  <style>
+    :root {
+      color-scheme: dark;
+      --graphite: #080b0d;
+      --panel: #0f1214;
+      --panel-raised: #14181a;
+      --yellow: #ffd735;
+      --text: #f3f1eb;
+      --muted: #aeb1a7;
+      --line: #292d2b;
+      --serif: Georgia, "Times New Roman", serif;
+      --mono: "Cascadia Code", "SFMono-Regular", Consolas, monospace;
+    }
+
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: #050607;
+      color: var(--text);
+      font: 15px/1.7 "Segoe UI", Arial, sans-serif;
+    }
+    a { color: var(--yellow); text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    .topbar {
+      position: sticky;
+      top: 0;
+      z-index: 2;
+      display: flex;
+      justify-content: space-between;
+      gap: 16px;
+      align-items: center;
+      padding: 12px max(20px, calc((100vw - 1030px) / 2));
+      background: rgb(8 11 13 / 92%);
+      border-bottom: 1px solid var(--line);
+      backdrop-filter: blur(12px);
+      color: var(--muted);
+      font: 11px var(--mono);
+      letter-spacing: .1em;
+      text-transform: uppercase;
+    }
+    .topbar strong { color: var(--yellow); font-weight: 500; }
+    .page {
+      width: min(100% - 32px, 940px);
+      margin: 34px auto 72px;
+      overflow: hidden;
+      border: 1px solid #242827;
+      border-radius: 12px;
+      background: var(--graphite);
+      box-shadow: 0 28px 100px #0009;
+    }
+    .banner {
+      position: relative;
+      min-height: clamp(240px, 36vw, 348px);
+      display: flex;
+      align-items: end;
+      background: linear-gradient(90deg, #080b0df2 0%, #080b0dba 42%, #080b0d12 100%), url("banner-background.png") center 46% / cover;
+    }
+    .banner::after {
+      position: absolute;
+      inset: 0;
+      content: "";
+      background: linear-gradient(0deg, var(--graphite), transparent 35%);
+      pointer-events: none;
+    }
+    .banner-copy { position: relative; z-index: 1; padding: 38px clamp(22px, 5vw, 54px) 35px; }
+    .eyebrow, .section-kicker { color: var(--yellow); font: 11px var(--mono); letter-spacing: .18em; text-transform: uppercase; }
+    h1 { margin: 10px 0 2px; font: 700 clamp(38px, 7vw, 66px)/1.04 var(--serif); letter-spacing: -.045em; }
+    .role { margin: 12px 0 0; color: #d8d8ce; font: 13px var(--mono); }
+    .contact-row { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 22px; }
+    .contact-row a { border: 1px solid #544918; border-radius: 4px; padding: 6px 11px; background: #090b09b8; font: 11px var(--mono); }
+    main { padding: 0 clamp(22px, 5vw, 54px) 52px; }
+    .intro { display: grid; grid-template-columns: 1fr 185px; gap: 34px; align-items: center; padding: 22px 0 32px; border-bottom: 1px solid var(--line); }
+    .intro h2 { max-width: 590px; margin: 12px 0; font: 700 clamp(25px, 4vw, 36px)/1.18 var(--serif); letter-spacing: -.025em; }
+    .intro p { max-width: 620px; color: var(--muted); margin: 0; }
+    .avatar { width: 142px; justify-self: end; border-radius: 50%; border: 2px solid #79631b; box-shadow: 0 0 40px #ffd73518; }
+    .flow { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-top: 22px; color: var(--muted); font: 11px var(--mono); }
+    .flow b { color: var(--text); font-weight: 500; }
+    .flow i { color: var(--yellow); font-style: normal; }
+    section { padding-top: 34px; }
+    .section-head { display: flex; justify-content: space-between; align-items: baseline; gap: 18px; margin-bottom: 17px; }
+    h2.section-title { margin: 0; font: 700 25px var(--serif); }
+    .section-note { color: #737970; font: 10px var(--mono); }
+    .stack { display: flex; flex-wrap: wrap; gap: 8px; }
+    .stack span { border: 1px solid #303532; border-radius: 4px; padding: 6px 10px; background: var(--panel); color: #d6d7d0; font: 11px var(--mono); }
+    .stack span.primary { border-color: #5a4a19; color: var(--yellow); }
+    .projects { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px; }
+    .project { min-height: 182px; padding: 19px; background: linear-gradient(145deg, #111516, #0a0d0e); border: 1px solid var(--line); border-radius: 6px; transition: border-color .2s, transform .2s; }
+    .project:hover { transform: translateY(-2px); border-color: #827022; }
+    .project-top { display: flex; justify-content: space-between; color: var(--yellow); font: 10px var(--mono); letter-spacing: .12em; }
+    .project h3 { margin: 12px 0 5px; font: 700 21px var(--serif); }
+    .project p { margin: 0; color: var(--muted); font-size: 13px; line-height: 1.6; }
+    .project a { display: inline-block; margin-top: 14px; font: 11px var(--mono); }
+    .timeline { border-left: 1px solid #514516; margin-left: 5px; padding-left: 20px; }
+    .job { position: relative; display: grid; grid-template-columns: 145px 1fr; gap: 12px; padding: 0 0 19px; }
+    .job::before { position: absolute; left: -25px; top: 8px; width: 8px; height: 8px; content: ""; border-radius: 50%; background: var(--yellow); box-shadow: 0 0 12px #ffd73575; }
+    .date { color: var(--yellow); font: 10px/1.6 var(--mono); }
+    .job strong { display: block; font: 600 14px var(--mono); }
+    .job p { margin: 3px 0 0; color: var(--muted); font-size: 12px; }
+    .bottom-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 30px; }
+    .credential { display: flex; justify-content: space-between; gap: 10px; padding: 9px 0; border-bottom: 1px solid var(--line); font-size: 12px; }
+    .credential span { color: var(--muted); text-align: right; }
+    .language { color: var(--muted); font-size: 13px; }
+    .language b { color: var(--text); font-weight: 500; }
+    footer { margin-top: 42px; padding: 22px 0 0; border-top: 1px solid var(--line); text-align: center; color: var(--muted); font-size: 12px; }
+    footer strong { display: block; margin-bottom: 7px; color: var(--text); font: 700 20px var(--serif); }
+    @media (max-width: 620px) {
+      .topbar { padding-inline: 16px; font-size: 9px; }
+      .page { width: min(100% - 16px, 940px); margin-top: 12px; border-radius: 8px; }
+      .banner { min-height: 255px; background-position: 59% center; }
+      .banner-copy { padding-bottom: 25px; }
+      .intro { grid-template-columns: 1fr; gap: 17px; }
+      .avatar { grid-row: 1; width: 82px; justify-self: start; }
+      .projects, .bottom-grid { grid-template-columns: 1fr; }
+      .project { min-height: auto; }
+      .job { grid-template-columns: 1fr; gap: 2px; }
+      .section-note { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <header class="topbar"><span><strong>INWTN</strong> / PROFILE README</span><span>CONCEPT 01 · GRAFITE + NEON</span></header>
+  <article class="page">
+    <header class="banner">
+      <div class="banner-copy">
+        <div class="eyebrow">Software · Systems · Automation</div>
+        <h1>Isaac Almeida</h1>
+        <p class="role">SOFTWARE ENGINEER &nbsp;·&nbsp; 3D LAB</p>
+        <nav class="contact-row"><a href="https://www.linkedin.com/in/isaacalmeida-dev">LINKEDIN ↗</a><a href="https://github.com/Inwtn">GITHUB ↗</a><a href="mailto:isaacreis.dev@gmail.com">EMAIL ↗</a></nav>
+      </div>
+    </header>
+    <main>
+      <div class="intro">
+        <div>
+          <div class="section-kicker">01 / Sobre</div>
+          <h2>Construo software para tirar trabalho repetitivo do caminho.</h2>
+          <p>Trabalho em módulos internos de ERP, integrações e automações. Minha experiência em operações financeiras ajuda a conectar a lógica do negócio ao software que resolve o problema.</p>
+          <div class="flow"><b>FINANÇAS</b><i>→</i> AUTOMAÇÃO <i>→</i> <b>SOFTWARE</b> <i>→</i> MENOS TAREFA MANUAL</div>
+        </div>
+        <img class="avatar" src="avatar.png" alt="Avatar ilustrado de Isaac Almeida" />
+      </div>
+
+      <section>
+        <div class="section-head"><h2 class="section-title">Ferramentas que uso</h2><span class="section-note">02 / STACK</span></div>
+        <div class="stack"><span class="primary">JavaScript</span><span class="primary">PHP</span><span class="primary">Laravel</span><span class="primary">Python</span><span>Java</span><span>Spring Boot</span><span>React</span><span>MySQL</span><span>PostgreSQL</span><span>REST APIs</span><span>LLMs</span><span>RAG</span><span>Linux</span></div>
+      </section>
+
+      <section>
+        <div class="section-head"><h2 class="section-title">Projetos em destaque</h2><span class="section-note">03 / SELECTED WORK</span></div>
+        <div class="projects">
+          <article class="project"><div class="project-top"><span>01 — FINTECH</span><span>↗</span></div><h3>Bank Reconciliation</h3><p>Importa extratos OFX/CSV, cruza lançamentos e aponta o que foi conciliado, divergiu ou ainda está pendente.</p><a href="https://github.com/Inwtn/bank-reconciliation">VER PROJETO ↗</a></article>
+          <article class="project"><div class="project-top"><span>02 — REAL TIME</span><span>↗</span></div><h3>StreamHub</h3><p>Compartilhamento de tela em salas privadas, com WebRTC, voz opcional e diagnóstico de conexão.</p><a href="https://github.com/Inwtn/streamhub">CÓDIGO ↗</a> &nbsp; <a href="https://streamhub-inwtn.onrender.com">DEMO ↗</a></article>
+          <article class="project"><div class="project-top"><span>03 — DEVELOPER TOOL</span><span>↗</span></div><h3>Lupa.NET</h3><p>Explora código C# reconstruído, IL, metadados e referências sem executar o assembly analisado.</p><a href="https://github.com/Inwtn/lupa-net">VER PROJETO ↗</a></article>
+          <article class="project"><div class="project-top"><span>04 — DATA + AI</span><span>↗</span></div><h3>MNEME</h3><p>Pesquisa financeira com pipelines de dados, backtesting e fluxos locais de LLM/RAG.</p><a href="https://github.com/Inwtn/MNEME">REPOSITÓRIO ↗</a> &nbsp; <a href="https://mneme-1b8.pages.dev/">APP ↗</a></article>
+        </div>
+      </section>
+
+      <section>
+        <div class="section-head"><h2 class="section-title">Uma trajetória entre negócio e tecnologia</h2><span class="section-note">04 / EXPERIENCE</span></div>
+        <div class="timeline">
+          <div class="job"><div class="date">SET 2026 — ATUAL</div><div><strong>Software Engineer · 3D Lab</strong><p>ERP interno, integrações, desenvolvimento full-stack e IA aplicada.</p></div></div>
+          <div class="job"><div class="date">FEV 2025 — JUN 2026</div><div><strong>Software Developer</strong><p>Java, Spring Boot, microsserviços e automação de processos financeiros.</p></div></div>
+          <div class="job"><div class="date">OUT 2020 — FEV 2025</div><div><strong>Analista Financeiro</strong><p>Fluxo de caixa, conciliação bancária e rotinas financeiras.</p></div></div>
+        </div>
+      </section>
+
+      <div class="bottom-grid">
+        <section><div class="section-head"><h2 class="section-title">Formação</h2></div><div class="credential"><b>Análise e Desenvolvimento de Sistemas</b><span>Newton Paiva / Wyden</span></div><div class="credential"><b>Google Cybersecurity</b><span>Google · 2026</span></div><div class="credential"><b>Started with Cybersecurity</b><span>IBM · 2026</span></div></section>
+        <section><div class="section-head"><h2 class="section-title">Idiomas</h2></div><p class="language"><b>Português</b> · Nativo</p><p class="language"><b>Inglês</b> · B2 &nbsp; <span>(escrita B1)</span></p><div class="section-kicker" style="margin-top:24px">Em estudo</div><p class="language">Cibersegurança · RAG · agentes de IA</p></section>
+      </div>
+
+      <footer><strong>Vamos conversar sobre software e automação.</strong><a href="mailto:isaacreis.dev@gmail.com">isaacreis.dev@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/isaacalmeida-dev">LinkedIn</a></footer>
+    </main>
+  </article>
+</body>
+</html>
