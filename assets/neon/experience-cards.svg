@@ -15,7 +15,7 @@
   <g fill="#F3F1EB" font-size="18" font-weight="700">
     <text x="44" y="77">SOFTWARE ENGINEER · 3D LAB</text>
     <text x="44" y="187">SOFTWARE DEVELOPER</text>
-    <text x="44" y="297">FINANCIAL ANALYST · BENERICKS COCKTAIL CO</text>
+    <text x="44" y="297" font-size="15">FINANCIAL ANALYST · BENERICKS COCKTAIL CO</text>
   </g>
   <g fill="#AEB1A7" font-size="13">
     <text x="430" y="53">Internal ERP · Full-stack features · API integrations · Applied AI</text>
@@ -26,3 +26,4 @@
     <text x="430" y="298">Automated recurring finance routines with spreadsheets and digital tools</text>
   </g>
 </svg>
+
